@@ -1,0 +1,6 @@
+{
+  "name": "ChallengeMe",
+  "description": "אפליקציית אתגרים חברתית מודרנית ומשחקית - משימות יומיות, צבירת XP, עליות רמות, דו-קרבות, קבוצות, תחרויות ומאמן AI חכם",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
